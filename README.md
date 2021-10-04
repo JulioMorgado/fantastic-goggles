@@ -10,3 +10,8 @@ Puedo ir poniendo lo que yo quiera
 * de
 * hacer
 * listas
+
+Edición 4 de octubre
+
+Para hacer un pullrequest
+
