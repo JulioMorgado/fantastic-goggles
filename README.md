@@ -15,3 +15,4 @@ Edición 4 de octubre
 
 Para hacer un pullrequest
 
+* Estaba repasando un poco...
